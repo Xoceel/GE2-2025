@@ -3,7 +3,7 @@
 [ext_resource type="Script" uid="uid://cks4uwsgfyggy" path="res://boid.gd" id="1_g7hsx"]
 [ext_resource type="Script" uid="uid://ceama6se3ec5g" path="res://FPController.gd" id="2_q6o6m"]
 [ext_resource type="Script" uid="uid://df0wbq4s31n0w" path="res://timer.gd" id="3_tgpyc"]
-[ext_resource type="Script" path="res://PathDrawer.gd" id="4_p2fuv"]
+[ext_resource type="Script" uid="uid://bmyywuu2jk7mj" path="res://PathDrawer.gd" id="4_p2fuv"]
 
 [sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_tgpyc"]
 sky_top_color = Color(0.929874, 0.947462, 0.990667, 1)
